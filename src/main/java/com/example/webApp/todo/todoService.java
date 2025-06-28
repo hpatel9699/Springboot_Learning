@@ -12,9 +12,9 @@ private static List<Todo> todos=new ArrayList<>();
 static {
 	todos.add(new Todo(1,"jhsudc","udshud",
 			LocalDate.now().plusYears(1),false));
-	todos.add(new Todo(1,"dev","udshud",
+	todos.add(new Todo(2,"dev","udshud",
 			LocalDate.now().plusYears(2),false));
-	todos.add(new Todo(1,"fulll","udshud",
+	todos.add(new Todo(3,"fulll","udshud",
 			LocalDate.now().plusYears(3),false));
 
 }
